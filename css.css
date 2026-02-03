@@ -77,7 +77,7 @@
 }
 .flat-page header .links li {
   margin-left: 10px;
-  color: blue;
+  color: red;
   cursor: pointer;
   transition: .3s;
 }
