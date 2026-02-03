@@ -1,9 +1,9 @@
 # lommrf
 * {
   box-sizing: border-box;
-  }
+}
   body {
-  font-family: `Open Sans`, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background: linear-gradient(120deg, black, pink, pink);
   }
   a {
@@ -29,30 +29,33 @@
   }
   @media (min-width: 780px) {
   .container {
-  width: 760px;
+    width: 760px;
   }
-  }
-  @media (min-width: 992px) {
+}
+
+@media (min-width: 992px) {
   .container {
-  width: 970px;
+    width: 970px;
   }
-  }
-  @media (min-width: 767px) {
+}
+
+@media (min-width: 767px) {
   .container {
-  width: 1170px;
+    width: 1170px;
   }
-  }
+}
   .flat-page header {
   min-height: 80px;
   display: flex;
-  }
-  @media (max-width: 767px) {
+}
+      
+@media (max-width: 767px) {
   .flat-page header {
-  min-height: auto;
-  display: initial;
+    min-height: auto;
+    display: initial;
   }
-  }
-  .flat-page header .container {
+}
+ .flat-page header .container {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -116,14 +119,14 @@
   }
 }
 .flat-page .content .info h1 {
-  color: pink;
+  color: black;
   font-size: 38px;
 }
 .flat-page .content .info p {
   margin: 0;
   line-height: 1.6;
   font-size: 15px;
-  color: pink;
+  color: black;
 }
 .flat-page .content .info button {
   border: 0;
@@ -131,7 +134,7 @@
   padding: 12px 30px;
   margin-top: 30px;
   cursor: pointer;
-  color: pink;
+  color: #FFF;
   background-color: orange;
 }
 .flat-page .content .image img {
