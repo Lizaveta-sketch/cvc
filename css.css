@@ -4,7 +4,7 @@
   }
   body {
   font-family: `Open Sans`, sans-serif;
-  background: linear-gradient(120deg, black, white, pink);
+  background: linear-gradient(120deg, black, pink, pink);
   }
   a {
   color: white;
@@ -12,7 +12,7 @@
   a:visited {
   color: blue;
   }
-  a: hover {
+  a:hover {
   color: red;
   }
   ul {
