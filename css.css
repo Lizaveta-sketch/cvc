@@ -77,7 +77,7 @@
 }
 .flat-page header .links li {
   margin-left: 10px;
-  color: red;
+  color: blue;
   cursor: pointer;
   transition: .3s;
 }
@@ -132,7 +132,7 @@
   margin-top: 30px;
   cursor: pointer;
   color: #FFF;
-  background-color: white;
+  background-color: orange;
 }
 .flat-page .content .image img {
   max-width: 120%;
