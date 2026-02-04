@@ -3,7 +3,7 @@
 }
 body {
   font-family: 'Open Sans', sans-serif;
-  background: linear-gradient(120deg, цвет1, цвет2, цвет3);
+  background: linear-gradient(120deg, purple, pink, black);
 }
       
 a {
@@ -104,7 +104,7 @@ ul {
   border-radius: 20px;
   padding: 10px 20px;
   color: #FFF;
-  background-color: pink;
+  background-color: purple;
 }
 
 .flat-page .content .container {
