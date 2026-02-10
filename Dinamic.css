@@ -4,7 +4,7 @@ html, body {
   font-family: 'Open Sans', sans-serif;
   height: 100%;
   margin: 0;
-  background-color: #FFA07A;
+  background-color: #FFFFE0;
 }
 .box {
     width: 80%;
@@ -118,7 +118,7 @@ html, body {
  letter-spacing: 8px;
 }
 #flat .block {
- background: #FFA07A;
+ background: #FFFFE0;
  padding: 6px;
  width: 820px;
  margin: 0 auto;
