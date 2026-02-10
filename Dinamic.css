@@ -13,7 +13,7 @@ html, body {
   overflow: auto;
 }
 #main {
- width: 100%;
+ width: 200%;
  padding: 0;
 }
 .content-asset p {
@@ -118,7 +118,7 @@ html, body {
  letter-spacing: 8px;
 }
 #flat .block {
- background: #FFA500;
+ background: #FFA07A;
  padding: 6px;
  width: 820px;
  margin: 0 auto;
