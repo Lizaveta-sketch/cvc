@@ -75,11 +75,23 @@ html, body {
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 }
+.bukva1 {
+	color: #FF7F50;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.bukva2 {
+	color: #FF4500;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.bukva3 {
+	color: #FFA500;
+	font-family: 'Source Sans Pro', sans-serif;
+}
 #flat .title {
  background: #FF7F50;
  padding: 60px;
  margin: 0 auto;
- text-align: center;
+ text-align: center; 
 }
 #flat .title h1 {
  font-size: 35px;
@@ -167,17 +179,17 @@ html, body {
  background-repeat: no-repeat;
  background-position: center center;
 }
-#flat .line-break {
+#flat .line-break1 {
  background: linear-gradient(60deg, #FF7F50, #FF4500, #FFA500);
  width: 100%;
  margin: 0 auto;
 }
-#flat .line-break {
- background: linear-gradient(60deg, #FF7F50, #FF4500, #FFA500);
+#flat .line-break2 {
+ background: linear-gradient(60deg, #FF4500, #FFA500, #FF7F50);
  width: 100%;
  margin: 0 auto;
-}#flat .line-break {
- background: linear-gradient(60deg, #FF7F50, #FF4500, #FFA500);
+}#flat .line-break3 {
+ background: linear-gradient(60deg, #FFA500, #FF7F50, #FF4500);
  width: 100%;
  margin: 0 auto;
 }
