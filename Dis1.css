@@ -11,11 +11,11 @@ html, body {
   }
   .box {
 
-  width: 70%;
+  width: 95%;
 
   position: absolute;
 
-  margin-top: -800px;
+  margin-top: -400px;
 
   overflow: auto;
 
