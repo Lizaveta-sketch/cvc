@@ -351,11 +351,11 @@ width: 95%;
   z-index: 2000;
 
 }
+
 .reveal {
-
-  height: 3400px !important;
-
+  height: 1px !important;
 }
+
 #nav-container {
 
   position: absolute;
