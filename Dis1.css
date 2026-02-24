@@ -353,7 +353,7 @@ width: 95%;
 }
 .reveal {
 
-  height: 512px !important;
+  height: 1000px !important;
 
 }
 #nav-container {
@@ -391,7 +391,7 @@ width: 95%;
 
   line-height: 28px;
 
-  color: #AFEEEE;
+  color: #000000;
 
   transition: .3s ease-in-out;
 
