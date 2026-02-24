@@ -248,7 +248,7 @@ width: 95%;
 
   height: 30px;
 
-  width: 35px;
+  width: 50px;
 
   position: relative;
 
@@ -313,12 +313,12 @@ width: 95%;
 }
 #menu-button.change-color div {
 
-  background: #87CEFA;
+  background: #000000;
 
 }
 #menu-button.hover-animation div:nth-child(1), #menu-button.hover-animation div:nth-child(4) {
 
-  width: 80%;
+  width: 100%;
 
 }
 #menu-button.hover-color div {
@@ -353,7 +353,7 @@ width: 95%;
 }
 .reveal {
 
-  height: 1000px !important;
+  height: 512px !important;
 
 }
 #nav-container {
