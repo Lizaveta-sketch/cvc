@@ -330,7 +330,7 @@ width: 95%;
 
   height: 100;
 
-  width: 95%;
+  width: 200%;
 
   background: url("https://raw.githubusercontent.com/Lizaveta-sketch/cvc/refs/heads/main/pic12.jpg");
 
@@ -340,7 +340,7 @@ width: 95%;
 
   transition: .5s ease-in;
 
-  z-index: 2000;
+  z-index: 2500;
 
 }
 .reveal {
