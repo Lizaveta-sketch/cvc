@@ -345,7 +345,7 @@ width: 95%;
 }
 .reveal {
 
-  height: 700px !important;
+  height: 1600px !important;
 
 }
 #nav-container {
@@ -415,3 +415,20 @@ float: left;
  padding-left: 3px;
 
  font-family: 'Montserrat', sans-serif; 
+ #intro,
+#text,
+#nav-container ul li a,
+.nav {
+  position: relative;  /* для #text – включаем работу z-index */
+  z-index: 3000;       /* выше, чем у #menu-overlay (2000) */
+}
+
+/* Если у #intro уже есть position: absolute, можно просто добавить z-index */
+#intro {
+  z-index: 3001; /* чуть выше для надёжности */
+}
+
+/* Для .nav (кнопка) оставляем position: fixed, но повышаем z-index */
+.nav {
+  z-index: 3002;
+}
